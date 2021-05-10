@@ -11,4 +11,4 @@ tempfile = "3.2.0"
 structopt = "0.3.21"
 uuid = { version = "0.8", features = ["serde", "v4"] }
 pbr = "1.0.4"
-regex = "1.4.3"
+regex = "1.5.4"
